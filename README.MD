@@ -68,8 +68,8 @@ This is a console-based Python application designed to manage book inventory, re
 
     Clone the repository (or copy the code):
 
-    git clone <repository-url> # If available
-    cd <project-directory>
+    git clone git@github.com:jesuviloria/module.git
+    cd module
 
 
     Alternatively, simply save the provided Python code into a .py file (e.g., bookstore_system.py).
